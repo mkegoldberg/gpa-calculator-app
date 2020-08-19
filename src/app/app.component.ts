@@ -1,10 +1,10 @@
 /*
 ============================================
-; Title: Assignment 7.3
+; Title: GPA Calculator
 ; Author: Mike Goldberg
 ; Date: 08/18/2020
 ; Modified By: Mike Goldberg
-; Description: Validation
+; Description: Static Angular Application
 ;===========================================
 */
 
